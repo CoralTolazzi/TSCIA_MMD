@@ -4,7 +4,7 @@ Este repositorio reúne distintos proyectos de **Ciencia de Datos e Inteligencia
 
 ---
 
-## Proyecto 1 (Tambien como proyecto_4)— *Sistema de Gestión de Base de Datos Coral Tech*
+## Proyecto 1 (Tambien como proyecto_4) — *Sistema de Gestión de Base de Datos Coral Tech*
 
 **Descripción general:**
 Simulación de un programa de gestión de base de datos perteneciente a la empresa ficticia **Coral Tech**, dedicada a la comercialización de productos tecnológicos.
@@ -37,7 +37,7 @@ Aquí se concentran las **operaciones CRUD**, la inicialización de la base de d
 
 ---
 
-## 🌲 Proyecto 2 *Predicción de Recompra mediante Árbol de Decisión*
+## 🌲 Proyecto 2 — *Predicción de Recompra mediante Árbol de Decisión*
 
 Entrenamiento de un modelo de **árbol de decisión** para predecir la probabilidad de que un cliente realice una **recompra** tras recibir o no una **promoción**.
 El proyecto abarca desde el preprocesamiento de datos hasta la evaluación del modelo con métricas de rendimiento.
